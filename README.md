@@ -1,8 +1,8 @@
 # LockScreenUTC
 Enables you to lock your screen. It can be unlocked with a password.
 
--Press on the green button labeled "Code" Then press "Download zip"
--Extract the file on the G: drive
+- Press on the green button labeled "Code" Then press "Download zip"
+- Extract the file on the G: drive
 - Place all of the files in the same folder
 - Run "Encrypt Password.exe" and enter your password
 - Run "Lock Screen.exe" in the same folder as "pw.txt" that "Encrypt Password.exe" made
